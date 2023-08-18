@@ -8,13 +8,17 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
     "firebase": "^10.2.0",
+    "gh-pages": "^6.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-redux": "^7.2.2",
     "react-scripts": "^5.0.1",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://github.com/89chandu/ReduxShopPage",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
