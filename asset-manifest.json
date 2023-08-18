@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/89chandu/ReduxShopPage/static/css/main.8303ff81.css",
+    "main.js": "/89chandu/ReduxShopPage/static/js/main.317a52a5.js",
+    "index.html": "/89chandu/ReduxShopPage/index.html",
+    "main.8303ff81.css.map": "/89chandu/ReduxShopPage/static/css/main.8303ff81.css.map",
+    "main.317a52a5.js.map": "/89chandu/ReduxShopPage/static/js/main.317a52a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8303ff81.css",
+    "static/js/main.317a52a5.js"
+  ]
+}
